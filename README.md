@@ -1,2 +1,3 @@
 # CIS410_HW3
-Homework 3 for CIS410 Data Analytics
+
+This notebook analyzes avocado sales data, focusing on metrics such as average prices, regional sales trends, and volume over time.
